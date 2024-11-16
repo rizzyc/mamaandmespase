@@ -1,0 +1,4 @@
+baseURL = 'https://mamaandmespaessentials.com/'
+languageCode = 'en-us'
+title = 'Mama & Me Spa Essentials'
+theme = 'vncnt-hugo'
